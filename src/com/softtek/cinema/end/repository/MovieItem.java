@@ -1,4 +1,4 @@
-package com.softtek.cinema.end.movie;
+package com.softtek.cinema.end.repository;
 
 public enum MovieItem {
 	ZOOTOPIA(1,"Zootopia", Genre.ANIMATION),

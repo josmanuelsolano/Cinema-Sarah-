@@ -1,8 +1,10 @@
-package com.softtek.cinema.end.movie;
+package com.softtek.cinema.end.services;
 
 import java.util.Scanner;
 
-public class Movie implements SelectMovie{
+import com.softtek.cinema.end.repository.MovieItem;
+
+public class SelectMovieImpl implements SelectMovieService{
 
 	@Override
 	public String selectMovie(MovieItem movieItem) {

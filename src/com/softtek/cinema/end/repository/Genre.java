@@ -1,4 +1,4 @@
-package com.softtek.cinema.end.movie;
+package com.softtek.cinema.end.repository;
 
 public enum Genre {
 	DRAMA,
